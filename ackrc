@@ -8,6 +8,7 @@
 --ignore-dir=tmp
 --ignore-dir=doc
 --ignore-dir=coverage
+--ignore-dir=capture_js/lib
 --sort-files
 --color
 --follow
